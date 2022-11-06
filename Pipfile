@@ -4,7 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+flask = "*"
+psycopg2 = "*"
+wtforms = "*"
+markupsafe = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+flask-bootstrap = "*"
+markdown = "*"
+flask-easymde = "*"
 pipfile = "*"
+flask-markdown = "*"
 
 [dev-packages]
 
